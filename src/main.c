@@ -12,7 +12,7 @@ int main (int argc, const char** argv)
 
 	students[0] = (student){117237, "nakamura"}; // def of nakamura
 	// students[1] // def of yoshioka
-	// students[2] = (student){2, "u"};// students[2] // def of uesugi
+	students[2] = (student){117049, "uesugi"}; // def of uesugi
 	// students[3] // def of kumazawa
 
 
