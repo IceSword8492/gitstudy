@@ -10,7 +10,7 @@ int main (int argc, const char** argv)
 
 
 	students[0] = (student){117237, "nakamura"}; // def of nakamura
-	students[1] = (student){1, "k"};// students[1] // def of yoshioka
+	// students[1] // def of yoshioka
 	// students[2] // def of uesugi
 	// students[3] // def of kumazawa
 	
